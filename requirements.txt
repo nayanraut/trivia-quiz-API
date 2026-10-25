@@ -1,0 +1,3 @@
+# Mathematics Trivia Master
+# Built using Python Standard Library (urllib, json, html, tkinter, dataclasses).
+# Zero external packages required for Python 3.8+!
